@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment and local config
+.env
+.env.*
+!.env.example
+
+# Data and generated outputs
+data/
+outputs/
+models/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.joblib
+
+# Keep small documentation placeholders if needed
+!data/.gitkeep
+!outputs/.gitkeep
+!models/.gitkeep
+
+# Logs and reports
+*.log
+*.tmp
+*.bak
+
+# Assessment brief or other local PDFs
+*.pdf
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
