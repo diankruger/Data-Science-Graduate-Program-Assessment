@@ -127,4 +127,4 @@ http://localhost:8501
 
 Generative AI was used as a development assistant for code generation, debugging, notebook edits, dashboard implementation, and documentation drafting.
 
-The analytical framing, feature choices, scoring logic, business interpretation, and final project decisions were reviewed and directed by the author. AI assistance was used to speed up implementation while the final methodology and conclusions reflect the author's judgement.
+The analytical framing, feature choices, scoring logic, business interpretation, and final project decisions were reviewed and directed by me. AI assistance was used to speed up implementation while the final methodology and conclusions reflect my judgement.
