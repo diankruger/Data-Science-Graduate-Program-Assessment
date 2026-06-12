@@ -14,6 +14,7 @@ ENV/
 
 # Jupyter
 .ipynb_checkpoints/
+environment_sanity_check.ipynb
 
 # Streamlit
 .streamlit/secrets.toml
@@ -27,6 +28,7 @@ ENV/
 data/
 outputs/
 models/
+game_summary_pairplot.png
 *.csv
 *.xlsx
 *.xls
@@ -43,6 +45,7 @@ models/
 *.log
 *.tmp
 *.bak
+README 1
 
 # Assessment brief or other local PDFs
 *.pdf
